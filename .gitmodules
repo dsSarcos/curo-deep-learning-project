@@ -1,3 +1,0 @@
-[submodule "pytorch-semseg"]
-	path = pytorch-semseg
-	url = git@github.com:dsSarcos/pytorch-semseg.git
